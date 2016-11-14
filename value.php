@@ -299,9 +299,9 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='🎈BOT SITE [➬ IBRAHIM-LOVE.HEROKUAPP,COM ]🎈
+$site='🎈BOT POWERD BY [ <3 LOVELY IBRAHIM <3 ]🎈
 ⤵
-� BOT OWNER ➡ https://www.facebook.com/profile.php?id=100013696995573 ⭐';
+� BOT OWNER ➡ https://www.facebook.com/profile.php?id=100013696995573 ⭐';
 $true=$ops.'
 🏨 '.$eps.'
 🏥 '.$ups.'
