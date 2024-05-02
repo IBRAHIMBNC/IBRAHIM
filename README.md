@@ -8,6 +8,8 @@
    (2) The territories of Pakistan shall comprise
 
          (a) the Provinces of [Balochistan], the [Khyber Pakhtunkhwa], the Punjab, and [Sindh];
+                  (I) the Provinces of [Balochistan], the [Khyber Pakhtunkhwa], the Punjab, and [Sindh];
+                  (II) the Provinces of [Balochistan], the [Khyber Pakhtunkhwa], the Punjab, and [Sindh];
          
          (b) the Islamabad Capital Territory, hereinafter referred to as the Federal Capital; [and]
          
