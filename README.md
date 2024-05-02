@@ -7,12 +7,12 @@
 
    (2) The territories of Pakistan shall comprise
 
-   (a) the Provinces of [Balochistan], the [Khyber Pakhtunkhwa], the Punjab, and [Sindh];
-   
-   (b) the Islamabad Capital Territory, hereinafter referred to as the Federal Capital; [and]
-   
-   (c) the Federally Administered Tribal Areas; and
-   
-   (d) Such States and territories as are or may be included in Pakistan, whether by accession or otherwise.
+      (a) the Provinces of [Balochistan], the [Khyber Pakhtunkhwa], the Punjab, and [Sindh];
+      
+      (b) the Islamabad Capital Territory, hereinafter referred to as the Federal Capital; [and]
+      
+      (c) the Federally Administered Tribal Areas; and
+      
+      (d) Such States and territories as are or may be included in Pakistan, whether by accession or otherwise.
 
    (3) [Majlis-e-Shoora (Parliament)] may by law admit into the Federation new States or areas on such terms and conditions as it thinks fit.
