@@ -5,7 +5,7 @@
 
    (1) Pakistan shall be a Federal Republic to be known as the Islamic Republic of Pakistan, hereinafter referred to as Pakistan.
 
-   (2) The territories of Pakistan shall comprise—
+   (2) The territories of Pakistan shall comprise
 
        (a) the Provinces of [Balochistan], the [Khyber Pakhtunkhwa], the Punjab, and [Sindh];
 
